@@ -1,0 +1,25 @@
+your-project/
+├── app/
+│   ├── api/
+│   │   └── generate-feedback/
+│   │       └── route.ts
+│   ├── page.tsx
+│   └── layout.tsx
+├── components/
+│   ├── ai-feedback.tsx
+│   ├── exercise-form.tsx
+│   └── ui/
+│       ├── button.tsx
+│       ├── input.tsx
+│       ├── label.tsx
+│       ├── tabs.tsx
+│       └── textarea.tsx
+├── styles/
+│   └── globals.css
+├── public/
+├── .env.local
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── tsconfig.json
